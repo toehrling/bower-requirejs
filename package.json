@@ -36,7 +36,7 @@
   ],
   "main": "lib",
   "bin": "bin/bower-requirejs.js",
-  "repository": "yeoman/bower-requirejs",
+  "repository": "toehrling/bower-requirejs",
   "scripts": {
     "test": "grunt test"
   },
